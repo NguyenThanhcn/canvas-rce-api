@@ -1,0 +1,4 @@
+{
+  "script": ".",
+  "command": "npm run start"
+}
